@@ -1,8 +1,8 @@
 # ![xtensor-python](docs/source/xtensor-python.svg)
 
-[![GHA Linux](https://github.com/xtensor-stack/xtensor/actions/workflows/linux.yml/badge.svg)](https://github.com/xtensor-stack/xtensor/actions/workflows/linux.yml)
-[![GHA OSX](https://github.com/xtensor-stack/xtensor/actions/workflows/osx.yml/badge.svg)](https://github.com/xtensor-stack/xtensor/actions/workflows/osx.yml)
-[![GHA Windows](https://github.com/xtensor-stack/xtensor/actions/workflows/windows.yml/badge.svg)](https://github.com/xtensor-stack/xtensor/actions/workflows/windows.yml)
+[![GHA Linux](https://github.com/xtensor-stack/xtensor-python/actions/workflows/linux.yml/badge.svg)](https://github.com/xtensor-stack/xtensor-python/actions/workflows/linux.yml)
+[![GHA OSX](https://github.com/xtensor-stack/xtensor-python/actions/workflows/osx.yml/badge.svg)](https://github.com/xtensor-stack/xtensor-python/actions/workflows/osx.yml)
+[![GHA Windows](https://github.com/xtensor-stack/xtensor-python/actions/workflows/windows.yml/badge.svg)](https://github.com/xtensor-stack/xtensor-python/actions/workflows/windows.yml)
 [![Documentation](http://readthedocs.org/projects/xtensor-python/badge/?version=latest)](https://xtensor-python.readthedocs.io/en/latest/?badge=latest)
 [![Zulip](https://img.shields.io/badge/social_chat-zulip-blue.svg)](https://xtensor.zulipchat.com/#narrow/channel/539553-Ask-anything)
 
